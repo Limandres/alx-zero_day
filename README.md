@@ -1,2 +1,1 @@
-not empty
-up to date
+not empty is up to date
